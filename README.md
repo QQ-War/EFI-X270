@@ -1,5 +1,5 @@
 # EFI-X270
-EFI works fine for X270 I5 7200U and Mojave(10.14.6)
+EFI works fine for X270 I5 7200U, Opencore(0.9.2) and Mojave(10.14.6)
 
 # Hardware
  * Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
