@@ -1,5 +1,5 @@
 # EFI-X270
-EFI works fine for X270 I5 7200U.
+EFI works fine for X270 I5 7200U and Mojave(10.14.6)
 
 # Hardware
  * Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
@@ -18,4 +18,5 @@ EFI works fine for X270 I5 7200U.
  
 # Other information
 for audio, I checked the 298, supports below codec, and I test some , 3 and 22 are working, 11, 13, 16, 21 are not working, others have not tested.
+
 ```0x100101, 0x100103, layout 3, 11, 13, 16, 21, 22, 28, 29, 30, 32, 33, 47, 66, 72, 99```
