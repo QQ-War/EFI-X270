@@ -15,6 +15,9 @@ EFI works fine for X270 I5 7200U, Opencore(0.9.2) and Mojave(10.14.6)
  # What's works
  (almost all)
  
+ # Upgrade
+ to Catalina(10.15.7) and Big Sur(11.7.7), until now works fine, what you need is to replace the correct version of Airportitlwm.
+ NOTE: the HDMI has some strange issues. when it wake up, macOS is unable to find the output unless you pull out and plug in again the HDMI cable.
  
 # Other information
 for audio, I checked the 298, supports below codec, and I test some , 3 and 22 are working, 11, 13, 16, 21 are not working, others have not tested.
