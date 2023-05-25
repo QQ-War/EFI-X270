@@ -41,4 +41,4 @@ for audio, I checked the 298, supports below codec, and I test some , 3 and 22 a
 
 # Issues
 * the HDMI has some strange issues. when it wake up, macOS is unable to find the output unless you pull out and plug in again the HDMI cable.
----solved, with add "igfxonln=1" and "gfxrst=1" in boot arg in Nvram.
+---solved, with add "igfxonln=1" in boot arg in Nvram.
