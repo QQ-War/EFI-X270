@@ -13,12 +13,24 @@ EFI works fine for X270 I5 7200U, Opencore(0.9.2) and Mojave(10.14.6)
  * SAMSUNG MZVLW256HEHP-000L7
  
  # What's works
- (almost all)
+* Power Management
+* Audio Output&Input
+* USB Ports
+* WiFi
+* Bluetooth
+* Ethernet
+* Docking USB Ports
+* Docking Ethernet
+* HDMI Out
+* TouchPad (Click and gestures)
+* TrackPoint
+* Sleep
+Note: Bluetooth soundbar/mouse work, but keyboard not work until upgraded to Monterey.
  
  # Upgrade
- to Catalina(10.15.7) and Big Sur(11.7.7), until now works fine, what you need is to replace the correct version of Airportitlwm.
- 
- NOTE: the HDMI has some strange issues. when it wake up, macOS is unable to find the output unless you pull out and plug in again the HDMI cable.
+ 1. to Catalina(10.15.7) and Big Sur(11.7.7), works fine, what you need is to replace the correct version of Airportitlwm.
+ 2. to Monterey(12.6.5), bluetooth and secureboot need update and configure, I test working well, but this repo has not updated yet.
+ Note: the HDMI has some strange issues. when it wake up, macOS is unable to find the output unless you pull out and plug in again the HDMI cable.
  
 # Other information
 for audio, I checked the 298, supports below codec, and I test some , 3 and 22 are working, 11, 13, 16, 21 are not working, others have not tested.
