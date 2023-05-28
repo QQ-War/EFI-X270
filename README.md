@@ -30,7 +30,7 @@ Note: Bluetooth soundbar/mouse work, but bluetooth keyboard not work until upgra
  
  # Upgrade
  1. to Catalina(10.15.7) and Big Sur(11.7.7), works fine, what you need is to replace the correct version of Airportitlwm.
- 2. to Monterey(12.6.5), also replace the correct version of Airportitlwm., bluetooth and secureboot need update and configure, I test working well.
+ 2. to Monterey(12.6.5) and Ventura(13.4), the current version also works fine.
  
  Note: 
  
