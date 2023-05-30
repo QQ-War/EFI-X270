@@ -1,5 +1,5 @@
 # EFI-X270
-EFI works fine for X270 I5 7200U, Opencore(0.9.2) and Mojave(10.14.6)
+EFI works fine for X270 I5 7200U and Opencore(0.9.2), from Mojave(10.14.6) to Ventura(13.4).
 
 # Hardware
  * Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
@@ -32,7 +32,6 @@ Note: Bluetooth soundbar/mouse work, but bluetooth keyboard not work until upgra
  1. to Catalina(10.15.7) and Big Sur(11.7.7), works fine, what you need is to replace the correct version of Airportitlwm.
  2. to Monterey(12.6.5) and Ventura(13.4), the current version also works fine.
  
- Note: 
  
 # Other information
 for audio, I checked the 298, supports below codec, and I test some , 3 and 22 are working, 11, 13, 16, 21 are not working, others have not tested.
